@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NfcSafeTools</string>
+    <string name="hce_service_desc">Demo HCE service for custom-owned payloads</string>
+</resources>
